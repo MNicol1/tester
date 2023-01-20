@@ -1,0 +1,26 @@
+.name {
+    color: red;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+button {
+    background-color: aqua;
+    text-decoration: none;
+    padding: 16px;
+    cursor: pointer;
+    font-size: 32px;
+    border-radius: 5px;
+
+
+}
+
